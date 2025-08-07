@@ -6,4 +6,4 @@
 **Tools List**
 
 
-- [自定义房间工具/Custom room's tool](https://website-hok.github.io/cr)
+- [自定义房间工具/Custom room's tool](https://website-hok.github.io/cr/index.html)
