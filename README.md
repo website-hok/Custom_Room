@@ -1,2 +1,2 @@
-# 王者荣耀网站
-## A HOK's website
+# 王者荣耀工具站
+## A website of HOK's tools
